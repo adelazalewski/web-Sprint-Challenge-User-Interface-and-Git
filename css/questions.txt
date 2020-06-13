@@ -1,0 +1,21 @@
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+1. Symantec html is the part of html that has meaning for the developers and the computer 
+
+Name two big differences between display: block; and display: inline;
+2. Display block generates a block level box for the element the block
+ element occupies a new line and occupies the width that is available to 
+ it Display inline is related inline elements and they don’t start a new 
+ line and they only take as much width as
+
+ What are the 4 areas of the box model?
+3. Content ......padding...... border margin
+
+While using flexbox, what axis does the following property work on: align-items: center?
+4. On the cross axis 
+
+Explain why git is valuable to a team of developers
+5. Git is a platform that helps a team of developers 
+to work on a project because it stores the history of
+ the changes made to the project, this way it helps track 
+ any mistakes that were made, like bugs, and so allows to go back 
+ in time and correct thoes mistakes.
